@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+*.pyc
+.env 
+db.sqlite3
+staticfiles/
+media/
+# === Pipenv ===
+Pipfile
+Pipfile.lock
+
+# === IDEs / Editors ===
+.vscode/
+.idea/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === JSON files (sensitive / secrets) ===
+*.json
+**/*.json
