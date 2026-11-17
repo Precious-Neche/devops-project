@@ -20,3 +20,5 @@ Thumbs.db
 # === JSON files (sensitive / secrets) ===
 *.json
 **/*.json
+
+project.tar.gz
